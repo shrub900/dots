@@ -22,7 +22,7 @@ size = 12.0
 [colors]
 
 [colors.primary]
-background = "#ffffff"  # White background
+background = "#ffffea"  # Light cream background
 foreground = "#000000"  # Black text
 
 
